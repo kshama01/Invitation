@@ -12,11 +12,11 @@
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to my wedding to be held on **02nd December at [Sanjha Chulha](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9),  VARANASI from 7:00 PM** onwards.
+inviting you and your family to my wedding to be held on **02nd December at [Sanjha Chulha](https://g.page/sanzha-chulha-family-restaurant?share),  VARANASI from 7:00 PM** onwards.
 
 - [Download](https://github.com/kshama01/Invitation/blob/master/assets/img/11.pdf) the Invitation card
 
-- Find [venue](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9) on Google map
+- Find [venue](https://g.page/sanzha-chulha-family-restaurant?share) on Google map
 
 - Visit the [website](https://kshamawedding.netlify.app/) for more details
 ```js
