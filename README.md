@@ -14,7 +14,7 @@
 With the divine grace of the almighty,
 inviting you and your family to elder sister's wedding to be held on **29th November at [Ashirwad Garden](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Ratu, Ranchi from 7:00 PM** onwards.
 
-- [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/Sonali%20%26%20Gagan.pdf) the Invitation card
+- [Download](https://github.com/kshama01/Invitation/blob/master/assets/img/11.pdf) the Invitation card
 
 - Find [venue](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9) on Google map
 
