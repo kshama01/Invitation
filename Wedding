@@ -1,11 +1,11 @@
 
-const newCouple = 'Sonali & Gagan';
+const newCouple = 'Kshama & Nirjhar';
 
-// Nov 29, 2020
-const weddingDate = new Date(2020, 11, 29);
+// Dec 02, 2022
+const weddingDate = new Date(2022, 12, 02);
 
-// Wedding venue: https://goo.gl/maps/5z5xX2hTYzU8VGEJ9
-const weddingVenue = new Location('Ashirwad Garden, Ranchi');
+// Wedding venue: https://maps.app.goo.gl/r8Msba6VdkmVBj4F8
+const weddingVenue = new Location('Sanjha Chulha, Varanasi');
 
 (function() {
     newCouple.willTieKnot(weddingDate);
